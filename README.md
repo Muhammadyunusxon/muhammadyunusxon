@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Muhammadyunusxon
 #### Flutter Mobile Developer
 
-![Instagram Follow](https://img.shields.io/instagram/follow/Muhammadyunusxonuz?label=Muhammadyunusxonuz&logo=instagram&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/muhammadyunusxon?logo=GitHub&style=for-the-badge)
 
 - Website: http://Muhammadyunusxon.uz/
