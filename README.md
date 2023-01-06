@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Muhammadyunusxon
 #### Flutter Mobile Developer
 
-![GitHub followers](https://img.shields.io/github/followers/muhammadyunusxon?logo=GitHub&style=for-the-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyunusxon&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyunusxon" /> </p>
+
 
 - Website: http://Muhammadyunusxon.uz/
 - 📫 How to reach me: Muhammadyunusxonabdumannopov9@gmail.com 
@@ -43,6 +44,10 @@
   <a href="#">
    >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammadyunusxon&show_icons=true" alt="Muhammadyunusxon" />
   </a>
+  
+![GitHub followers](https://img.shields.io/github/followers/muhammadyunusxon?logo=GitHub&style=for-the-badge)
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadyunusxon" alt="muhammadyunusxon" /></a> </p>
 </details>
   
 
