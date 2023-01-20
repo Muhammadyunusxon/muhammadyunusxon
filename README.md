@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/Muhammadyunusxon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='28'>](https://www.linkedin.com/in/muhammadyunusxon-abdumannopov-32143b24b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='28'>](https://www.instagram.com/Muhammadyunusxonuz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='28'>](muhammadyunusxon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/Muhammadyunusxon)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='28'>](https://www.linkedin.com/in/muhammadyunusxon-abdumannopov-32143b24b/)  [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='28'>](https://www.instagram.com/Muhammadyunusxonuz/)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg' alt='telegram' height='28'>](t.me/muhammadyunusxon)  
 
 
 ### Skills:
@@ -31,7 +31,13 @@
 
 </p>
 
+<details>
+  <summary> Show Muhamadyunusxon's Github Streak</summary>
+  <br>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadyunusxon&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
+</details>
 
 <details>
   <summary> Show Muhamadyunusxon's Github Stats</summary>
