@@ -7,7 +7,7 @@
 - Website: http://Muhammadyunusxon.uz/
 - 📫 How to reach me: Muhammadyunusxonabdumannopov9@gmail.com 
 - 🌱 I’m currently learning **Flutter**
-- ⚡ Skills: Dart, Flutter, Python, C ,MySql,Git
+- ⚡ Skills: Dart, Flutter, Python, C ,MySql,Git,Firebase,SOLID,RestApi,
 
 ### Connect with me:
 
