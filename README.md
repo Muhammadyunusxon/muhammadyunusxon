@@ -54,6 +54,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/muhammadyunusxon?logo=GitHub&style=for-the-badge)
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadyunusxon" alt="muhammadyunusxon" /></a> </p>
+  
+  
+  <img align="center" src = "https://profile-counter.glitch.me/Bilol4391/count.svg" alt ="Loading...">
 </details>
   
 
