@@ -11,8 +11,14 @@
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/Muhammadyunusxon)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='28'>](https://www.linkedin.com/in/muhammadyunusxon-abdumannopov-32143b24b/)  [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='28'>](https://www.instagram.com/Muhammadyunusxonuz/)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg' alt='telegram' height='28'>](t.me/muhammadyunusxon)  
-
+[<img align="left" alt="Muhammadyunusxon | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
+[<img align="left" alt="Muhammadyunusxon | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Muhammadyunusxon | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
+[<img align="left" alt="Muhammadyunusxon | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Muhammadyunusxon | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Muhammadyunusxon | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="Muhammadyunusxon | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
+<br>
 
 ### Skills:
 
@@ -58,7 +64,17 @@
   
   <img align="center" src = "https://profile-counter.glitch.me/Bilol4391/count.svg" alt ="Loading...">
 </details>
-  
+
+
+[telegram]: http://t.me/Muhammadyunusxon
+[mail]: Muhammadyunusxonabdumannopov9@gmail.com
+[twitter]: https://twitter.com/MYU_developer
+[youtube]: https://www.youtube.com/@Muhammadyunusxon
+[linkedin]: https://www.linkedin.com/in/Muhammadyunusxon/
+[github]: https://github.com/Muhammadyunusxon
+[instagram]: https://www.instagram.com/Muhammadyunusxonuz
+[facebook]: https://www.facebook.com/Muhammadyunusxon.uz
+
 
 
 
