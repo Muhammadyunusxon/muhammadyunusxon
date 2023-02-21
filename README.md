@@ -7,7 +7,7 @@
 - Website: http://Muhammadyunusxon.uz/
 - 📫 How to reach me: Muhammadyunusxonabdumannopov9@gmail.com 
 - 🌱 I’m currently learning **Flutter**
-- ⚡ Skills: Dart, Flutter, Python, C ,MySql,Git,Firebase,SOLID,RestApi,Clean architecture,Google and Yandex map,MVC architecture,Provider,Hive,OOP
+- ⚡ Skills: Dart, Flutter, Python, C , MySql , Git , Firebase , SOLID , RestApi, Clean architecture , Google and Yandex map , MVC architecture , Provider , Hive , OOP 
 - ⚡ Level 5 local expert on Google Maps
 
 ### Connect with me:
