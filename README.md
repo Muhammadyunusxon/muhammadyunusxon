@@ -77,5 +77,11 @@
 [facebook]: https://www.facebook.com/Muhammadyunusxon.uz
 
 
+<details>
+  <summary> My Waka Time</summary>
+  <br>
+  
+[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadyunusxon&theme=radical)](https://wakatime.com/@professorDeveloper)
 
+</details>
 
