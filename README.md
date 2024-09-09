@@ -79,6 +79,7 @@
 
 <details>
   <summary> My Waka Time</summary>
+  <a href="https://wakatime.com/@a0d2856e-25d4-4926-b9ef-eea69995a07b"><img src="https://wakatime.com/badge/user/a0d2856e-25d4-4926-b9ef-eea69995a07b.svg" alt="Total time coded since May 24 2023" /></a>
   <br>
   
 [![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadyunusxon&theme=radical)](https://wakatime.com/@professorDeveloper)
