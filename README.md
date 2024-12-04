@@ -68,7 +68,7 @@
 
 
 [telegram]: http://t.me/Muhammadyunusxon
-[mail]: Muhammadyunusxonabdumannopov9@gmail.com
+[mail]: MAILTO:my.abdumannopov@gmail.com
 [twitter]: https://twitter.com/MYU_developer
 [youtube]: https://www.youtube.com/@Muhammadyunusxon
 [linkedin]: https://www.linkedin.com/in/Muhammadyunusxon/
