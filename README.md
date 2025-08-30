@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Muhammadyunusxon
 #### Flutter Mobile Developer
 
-- Website: http://Muhammadyunusxon.uz/
+- Website: https://muhammadyunusxon.uz/
 - 📫 How to reach me: my.abdumannopov@gmail.com 
 - 🌱 I’m currently working **Flutter**
 - ⚡ Skills: Dart, Flutter, Python, C 
