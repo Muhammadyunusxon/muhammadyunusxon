@@ -5,7 +5,7 @@
 - 📫 How to reach me: my.abdumannopov@gmail.com 
 - 🌱 I’m currently working **Flutter**
 - ⚡ Skills: Dart, Flutter, Python, C 
-- ⚡ Experience: 2 years +
+- ⚡ Experience: 3 years +
 
 ### Connect with me:
 
