@@ -1,81 +1,119 @@
-### Hi there 👋, my name is Muhammadyunusxon
-#### Flutter Mobile Developer
+```
+ __  __       _                                          _                                       
+|  \/  |_   _| |__   __ _ _ __ ___  _ __ ___   __ _  __| |_   _ _   _ _ __  _   _ _____  _____  _ __  
+| |\/| | | | | '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` |/ _` | | | | | | | '_ \| | | / __\ \/ / _ \| '_ \ 
+| |  | | |_| | | | | (_| | | | | | | | | | | | (_| | (_| | |_| | |_| | | | | |_| \__ \>  < (_) | | | |
+|_|  |_|\__,_|_| |_|\__,_|_| |_| |_|_| |_| |_|\__,_|\__,_|\__, |\__,_|_| |_|\__,_|___/_/\_\___/|_| |_|
+                                                          |___/                                       
+```
 
-- Website: https://muhammadyunusxon.uz/
-- 📫 How to reach me: my.abdumannopov@gmail.com 
-- 🌱 I’m currently working **Flutter**
-- ⚡ Skills: Dart, Flutter, Python, C 
-- ⚡ Experience: 3 years +
+<div align="right">
+  <a href="https://muhammadyunusxon.uz">muhammadyunusxon.uz</a> · 
+  <a href="mailto:my.abdumannopov@gmail.com">my.abdumannopov@gmail.com</a> · 
+  Tashkent, UZ
+</div>
 
-### Connect with me:
+---
 
-[<img align="left" alt="Muhammadyunusxon | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
-[<img align="left" alt="Muhammadyunusxon | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="Muhammadyunusxon | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
-[<img align="left" alt="Muhammadyunusxon | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Muhammadyunusxon | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Muhammadyunusxon | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
-<br>
+**Flutter Team Lead** · Building production mobile apps for 3+ years
 
-### Skills:
+Currently architecting multi-tenant e-commerce and ride-hailing systems with Flutter. I focus on clean architecture, scalable state management, and pixel-perfect UIs that users actually enjoy.
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="22" height="22"/>
-   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="22" height="22"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="22" height="22"/>
-     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="22" height="22"/>
-
-</p>
-
-<details>
-  <summary> Show Muhamadyunusxon's Github Streak</summary>
-  <br>
+```dart
+class Muhammadyunusxon extends Developer {
+  @override
+  String get focus => 'Mobile Engineering';
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadyunusxon&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
-
-</details>
-
-<details>
-  <summary> Show Muhamadyunusxon's Github Stats</summary>
-  <br>
+  @override
+  List<String> get stack => [
+    'Flutter & Dart',
+    'Riverpod / BLoC',
+    'Firebase Suite',
+    'Google Maps Platform',
+    'Clean Architecture',
+  ];
   
-  <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyunusxon&layout=compact&hide=html" alt="Muhammadyunusxon" />
-  </a>
-  
-  <a href="#">
-   >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammadyunusxon&show_icons=true" alt="Muhammadyunusxon" />
-  </a>
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadyunusxon" alt="muhammadyunusxon" /></a> </p>
-  
-  
-  <img align="center" src = "https://profile-counter.glitch.me/Bilol4391/count.svg" alt ="Loading...">
-</details>
+  @override
+  Map<String, dynamic> get currentWork => {
+    'role': 'Team Lead',
+    'building': ['E-commerce apps', 'Taxi platforms', 'POS systems'],
+    'approach': 'Ship fast, iterate faster',
+  };
+}
+```
 
+---
 
-[telegram]: http://t.me/Muhammadyunusxon
-[mail]: MAILTO:my.abdumannopov@gmail.com
-[youtube]: https://www.youtube.com/@myu_dev
-[linkedin]: https://www.linkedin.com/in/Muhammadyunusxon/
-[github]: https://github.com/Muhammadyunusxon
-[instagram]: https://www.instagram.com/Muhammadyunusxonuz
-[facebook]: https://www.facebook.com/Muhammadyunusxon.uz
+### What I Build
 
+**Multi-component mobile systems** — Customer apps, driver apps, seller dashboards, admin panels. Full ecosystem thinking, not just screens.
 
-<details>
-  <summary> My Waka Time</summary>
-  <a href="https://wakatime.com/@a0d2856e-25d4-4926-b9ef-eea69995a07b"><img src="https://wakatime.com/badge/user/a0d2856e-25d4-4926-b9ef-eea69995a07b.svg" alt="Total time coded since May 24 2023" /></a>
-  <br>
-  
-[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadyunusxon&theme=radical)](https://wakatime.com/@professorDeveloper)
+**Real-time features** — Live tracking, instant messaging, push notifications. The stuff that makes apps feel alive.
 
-</details>
+**Production-grade architecture** — Clean code that scales. Proper state management. Tests that matter.
 
+---
+
+### Stack
+
+```
+├── Mobile
+│   ├── Flutter (primary)
+│   ├── Dart
+│   └── Native bridges (iOS/Android)
+│
+├── State & Architecture  
+│   ├── Riverpod
+│   ├── BLoC
+│   └── Clean Architecture
+│
+├── Backend & Services
+│   ├── Firebase (Auth, Firestore, FCM, Storage)
+│   ├── REST APIs
+│   └── Google Maps Platform
+│
+└── Tools
+    ├── Git / GitHub
+    ├── Xcode / Android Studio
+    ├── Figma
+    └── CI/CD
+```
+
+---
+
+### Stats
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammadyunusxon&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=888888&hide_rank=true" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyunusxon&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&hide=html,css" />
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<a href="https://wakatime.com/@muhammadyunusxon">
+<img src="https://wakatime.com/badge/user/a0d2856e-25d4-4926-b9ef-eea69995a07b.svg?style=flat-square" />
+</a>
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[Telegram](https://t.me/Muhammadyunusxon) · [LinkedIn](https://www.linkedin.com/in/Muhammadyunusxon/) · [YouTube](https://www.youtube.com/@myu_dev) · [Instagram](https://www.instagram.com/Muhammadyunusxonuz)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open for interesting projects and collaborations</sub>
+</div>
